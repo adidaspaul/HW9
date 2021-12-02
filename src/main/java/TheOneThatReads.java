@@ -11,7 +11,7 @@ public class TheOneThatReads {
         }
     }
 
-    File file = new File("\\Java Projects\\HW9\\src\\main\\resources\\File1.txt");
+    File file = new File("src/main/resources/File1.txt");
     Scanner numbers;
 
 
